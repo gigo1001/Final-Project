@@ -9,3 +9,5 @@
 [About Me](AboutMe.md)
 
 [Hobbies](Hobbies.md)
+
+[Miscellaneous](Misc.md)
