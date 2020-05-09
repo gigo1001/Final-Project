@@ -10,7 +10,7 @@ print(a)
 [Check this out!](https://f.dale.onl/mu/all/photos/SanFrancisco.jpg)
 
 ## Other Pages
-[Home](Home.md)
+[Home](README.md)
 
 [About Me](AboutMe.md)
 
