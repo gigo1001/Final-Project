@@ -8,3 +8,5 @@ I am very excited to have *YOU*!
 [Favorites](Favorite.md)
 
 [Hobbies](Hobbies.md)
+
+[Miscellaneous](Misc.md)
