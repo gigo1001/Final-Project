@@ -8,8 +8,8 @@ print(a)
 ## Other Pages
 [Home](Home.md)
 
-[Favorites](Favorite.md)
-
 [About Me](AboutMe.md)
+
+[Favorites](Favorite.md)
 
 [Hobbies](Hobbies.md)
