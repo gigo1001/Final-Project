@@ -11,3 +11,5 @@ I am from St. Louis and I have 3 siblings.
 [Favorites](Favorite.md)
 
 [Hobbies](Hobbies.md)
+
+[Miscellaneous](Misc.md)
