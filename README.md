@@ -3,5 +3,5 @@
 I am very excited to have *YOU*!
 
 ## Other Pages
-[About Me](AboutMe)
+[About Me](AboutMe.md)
 [Favorites](Favorite.md)
