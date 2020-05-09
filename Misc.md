@@ -7,7 +7,7 @@ a = "I love Mizzou!"
 print(a)
 '''
 
-[Check this out!]((https://f.dale.onl/mu/all/photos/SanFrancisco.jpg)
+[Check this out!](https://f.dale.onl/mu/all/photos/SanFrancisco.jpg)
 
 ## Other Pages
 [Home](Home.md)
