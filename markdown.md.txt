@@ -1,0 +1,32 @@
+# IT 1000
+
+## IT 1000 is cool
+
+**Look** a plane!
+
+_No_ it's a bird 
+
+[Yo check it](www.google.com)
+
+[A nice building!](https://f.dale.onl/mu/all/photos/SanFrancisco.jpg)
+
+* Eggs
+* Bacon 
+* Cheese
+
+1. Pancakes
+2. Biscuits
+3. Gravy
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| What      | is | up |
+| Hey      | Hello      |   Hi |
+| Where | are       |    you |
+
+***
+
+This is a paragraph
+    This is a block of code
+    Hey what is up?
