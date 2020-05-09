@@ -9,3 +9,5 @@ I am from St. Louis and I have 3 siblings.
 [Home](README.md)
 
 [Favorites](Favorite.md)
+
+[Hobbies](Hobbies.md)
