@@ -7,3 +7,5 @@
 [Home](README.md)
 
 [About Me](AboutMe.md)
+
+[Hobbies](Hobbies.md)
