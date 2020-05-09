@@ -5,7 +5,7 @@
 - Playing the ukulele
 
 ## Other Pages
-[Home](Home.md)
+[Home](README.md)
 
 [About Me](AboutMe.md)
 
