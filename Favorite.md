@@ -5,4 +5,4 @@
 
 ## Other Pages
 [Home](README.md)
-[About Me](About Me)
+[About Me](AboutMe.md)
