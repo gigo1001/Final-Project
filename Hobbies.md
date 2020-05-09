@@ -10,3 +10,5 @@
 [About Me](AboutMe.md)
 
 [Favorites](Favorite.md)
+
+[Miscellaneous](Misc.md)
