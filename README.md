@@ -6,3 +6,5 @@ I am very excited to have *YOU*!
 [About Me](AboutMe.md)
 
 [Favorites](Favorite.md)
+
+[Hobbies](Hobbies.md)
