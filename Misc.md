@@ -1,7 +1,9 @@
 # Miscellaneous
 
 '''python
-a = "I love Mizzou!
+
+a = "I love Mizzou!"
+
 print(a)
 '''
 
