@@ -3,4 +3,4 @@
 I am very excited to have *YOU*
 
 ##Other Pages
-[About Me](AboutMe.md)
+[About Me](AboutMe)
