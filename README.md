@@ -1,6 +1,6 @@
 # Welcome to my final project!
 
-I am very excited to have *YOU*
+I am very excited to have *YOU*!
 
-##Other Pages
+## Other Pages
 [About Me](AboutMe)
